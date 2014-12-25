@@ -73,7 +73,7 @@ Mastermind.Views.Game = function(options) {
 
   this.submitGuess = function() {
     if (this.gameOver) {
-      window.location.href = '/'
+      window.location.href = '/mastermind'
     } else if (this.correctGuess()) {
       this.win()
     } else if (this.currentRow === this.rowCount - 1) {
