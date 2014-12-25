@@ -5,8 +5,7 @@ $(document).ready(function() {
     'yellow',
     'green',
     'blue',
-    'purple',
-    'black'
+    'purple'
   ]
 
   var game = new Mastermind.Views.Game({

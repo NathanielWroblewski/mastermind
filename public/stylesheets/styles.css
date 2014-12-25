@@ -68,13 +68,12 @@ hr {
 .button h2 { color: white; }
 .button:hover { background-color: #1BBC9B;}
 
-.red    { background-color: #D64541; }
+.red    { background-color: #E08283; }
 .orange { background-color: #EB974E; }
 .yellow { background-color: #F5D76E; }
 .green  { background-color: #03C9A9; }
-.blue   { background-color: #336E7B; }
-.purple { background-color: #913D88; }
-.black  { background-color: #444444; }
+.blue   { background-color: #89C4F4; }
+.purple { background-color: #BE90D4; }
 
 .clues {
   width: 50px;
