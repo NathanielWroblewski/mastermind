@@ -20,7 +20,9 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 { margin: 50px 0 25px 0; }
 
-.board { margin-bottom: 20px; }
+.board {
+  height: 635px;
+}
 
 ul:not(.solution) {
   margin: 0 0 0 75px;
@@ -81,10 +83,10 @@ hr {
 
 .clues h4 {
   margin: 5px;
-  height: 50px;
+  height: 35px;
   width: 50px;
   border: 1px solid #ededed;
-  padding: 0;
+  padding: 15px 0 0 0;
   background-color: #ededed;
   color: #444;
 }
